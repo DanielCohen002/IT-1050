@@ -1,0 +1,28 @@
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\Ass 8\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
