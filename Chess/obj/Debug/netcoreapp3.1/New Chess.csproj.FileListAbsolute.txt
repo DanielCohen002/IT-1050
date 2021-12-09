@@ -1,0 +1,14 @@
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\bin\Debug\netcoreapp3.1\New Chess.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\bin\Debug\netcoreapp3.1\New Chess.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\bin\Debug\netcoreapp3.1\New Chess.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\bin\Debug\netcoreapp3.1\New Chess.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\bin\Debug\netcoreapp3.1\New Chess.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\bin\Debug\netcoreapp3.1\New Chess.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New Chess\obj\Debug\netcoreapp3.1\New Chess.genruntimeconfig.cache
