@@ -1,0 +1,28 @@
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\New IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.genruntimeconfig.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\bin\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 8\obj\Debug\netcoreapp3.1\New IT1050 DC Assignment 8.genruntimeconfig.cache

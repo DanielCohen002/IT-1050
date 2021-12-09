@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "New IT1050 DC Assignment 8/1.0.0": {
+        "runtime": {
+          "New IT1050 DC Assignment 8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New IT1050 DC Assignment 8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
