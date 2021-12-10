@@ -1,0 +1,14 @@
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\bin\Debug\netcoreapp3.1\IT1050 DC Assignment 10.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\bin\Debug\netcoreapp3.1\IT1050 DC Assignment 10.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\bin\Debug\netcoreapp3.1\IT1050 DC Assignment 10.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\bin\Debug\netcoreapp3.1\IT1050 DC Assignment 10.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\bin\Debug\netcoreapp3.1\IT1050 DC Assignment 10.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\bin\Debug\netcoreapp3.1\IT1050 DC Assignment 10.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Assignment 10\obj\Debug\netcoreapp3.1\IT1050 DC Assignment 10.genruntimeconfig.cache
