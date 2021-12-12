@@ -1,0 +1,14 @@
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\bin\Debug\netcoreapp3.1\IT1050 DC Final.exe
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\bin\Debug\netcoreapp3.1\IT1050 DC Final.deps.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\bin\Debug\netcoreapp3.1\IT1050 DC Final.runtimeconfig.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\bin\Debug\netcoreapp3.1\IT1050 DC Final.runtimeconfig.dev.json
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\bin\Debug\netcoreapp3.1\IT1050 DC Final.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\bin\Debug\netcoreapp3.1\IT1050 DC Final.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.csproj.AssemblyReference.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.AssemblyInfoInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.AssemblyInfo.cs
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.csproj.CoreCompileInputs.cache
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.dll
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.pdb
+C:\Users\djcoh\Documents\Visual Studio 2019\Projects\IT1050 DC Final\obj\Debug\netcoreapp3.1\IT1050 DC Final.genruntimeconfig.cache
